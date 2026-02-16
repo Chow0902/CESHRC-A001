@@ -4,12 +4,12 @@ type T = {
   [key: string]: any;
 };
 
-export const homepageTitle = "Chongxi's Homepage";
+export const homepageTitle = "Chow's Homepage";
 
 // Profile
 export const profile: T = {
-  name: "Chongxi",
-  role: "ROOT",
+  name: "SkyChow",
+  role: "SC",
   location: "Anchorage, Alaska",
   avatars: [
     "https://blog.chongxi.us/images/xi.webp",
@@ -32,29 +32,29 @@ export const profile: T = {
 export const connectLinks: T[] = [
   {
     platform: "GitHub",
-    username: "@ChongxiSama",
-    url: "https://github.com/ChongxiSama",
+    username: "@Chow0902",
+    url: "https://github.com/Chow0902",
     icon: "code",
     color: "primary",
   },
   {
     platform: "Telegram",
-    username: "@CEPATECH",
-    url: "https://t.me/CEPATECH",
+    username: "@chowunive",
+    url: "https://t.me/chowunive",
     icon: "send",
     color: "tertiary",
   },
   {
     platform: "Bilibili",
-    username: "@CEPATO",
-    url: "https://m.bilibili.com/space/500042199",
+    username: "@Sky-Chow",
+    url: "https://m.bilibili.com/space/361409645",
     icon: "play_circle",
     color: "pink",
   },
   {
     platform: "Email",
-    username: "qwq@chongxi.us",
-    url: "mailto:qwq@chongxi.us",
+    username: "skychow1109@outlook.com",
+    url: "mailto:skychow1109@outlook.com",
     icon: "mail",
     color: "surface",
   },
@@ -63,14 +63,14 @@ export const connectLinks: T[] = [
 // Personal
 export const personalLinks: T[] = [
   {
-    platform: "Atlas",
+    platform: "Disk",
     description: "Personal file storage.",
-    url: "https://atlas.chongxi.us",
+    url: "https://disk.skychow.top",
     icon: "cloud",
   },
   {
     platform: "Spotify",
-    description: "Live listening activity.",
+    description: "ChongXi’s Live listening activity.",
     url: "https://spot.chongxi.us",
     icon: "music_note",
     live: true, 
@@ -90,7 +90,7 @@ export const sections: T = {
 // Project
 export const projects: T[] = [
   {
-    title: "CESHRC-A001",
+    title: "MD3 THEME",
     description: "Material You 3 Style Personal Homepage Website.",
     status: "building...",
     tech: ["Tailwind", "React", "Vite"],
@@ -102,10 +102,10 @@ export const projects: T[] = [
 // Dashboard
 export const dashboard: T = {
   servers: [
-    { name: "main", url: "https://chongxi.us", connected: true },
+    { name: "main", url: "https://skychow.top", connected: true },
     { name: "blog", url: "https://blog.chongxi.us", connected: true },
     { name: "spot", url: "https://spot.chongxi.us", connected: true },
-    { name: "NAS", url: "https://void.chongxi.us", connected: false },
+    { name: "NAS", url: "https://disk.skychow.top", connected: true },
   ],
   skills: [
     "JavaScript", "C#", "Go", "Rust", "HTML5", "Astro", "Node.js", 
@@ -116,5 +116,5 @@ export const dashboard: T = {
 // Footer
 export const footer: T = {
   line1: `© ${new Date().getFullYear()} All Rights Reserved.`,
-  line2: "MoeICP-20250591 // END OF LINE",
+  line2: "MoeICP-20250591 // BEYOND YOURSELF ",
 };
