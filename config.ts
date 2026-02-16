@@ -10,7 +10,7 @@ export const homepageTitle = "Chow's Homepage";
 export const profile: T = {
   name: "SkyChow",
   role: "SC",
-  location: "Anchorage, Alaska",
+  location: "HongKong SAR, China",
   avatars: [
     "https://youke.xn--y7xa690gmna.cn/s1/2026/02/16/69931993137a0.webp",
     "https://youke.xn--y7xa690gmna.cn/s1/2026/02/16/69931993137a0.webp"
