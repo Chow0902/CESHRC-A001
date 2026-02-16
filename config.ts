@@ -12,8 +12,8 @@ export const profile: T = {
   role: "SC",
   location: "Anchorage, Alaska",
   avatars: [
-    "https://blog.chongxi.us/images/xi.webp",
-    "https://blog.chongxi.us/images/xi.webp"
+    "https://youke.xn--y7xa690gmna.cn/s1/2026/02/16/69931993137a0.webp",
+    "https://youke.xn--y7xa690gmna.cn/s1/2026/02/16/69931993137a0.webp"
   ],
   slogan: [
     { text: "Exploring digital frontiers through " },
@@ -92,7 +92,7 @@ export const projects: T[] = [
   {
     title: "MD3 THEME",
     description: "Material You 3 Style Personal Homepage Website.",
-    status: "building...",
+    status: "built",
     tech: ["Tailwind", "React", "Vite"],
     link: "https://github.com/ChongxiSama/CESHRC-A001",
     featured: true,
@@ -103,8 +103,6 @@ export const projects: T[] = [
 export const dashboard: T = {
   servers: [
     { name: "main", url: "https://skychow.top", connected: true },
-    { name: "blog", url: "https://blog.chongxi.us", connected: true },
-    { name: "spot", url: "https://spot.chongxi.us", connected: true },
     { name: "NAS", url: "https://disk.skychow.top", connected: true },
   ],
   skills: [
@@ -116,5 +114,5 @@ export const dashboard: T = {
 // Footer
 export const footer: T = {
   line1: `© ${new Date().getFullYear()} All Rights Reserved.`,
-  line2: "MoeICP-20250591 // BEYOND YOURSELF ",
+  line2: "MoeICP-20251109 // BEYOND YOURSELF ",
 };
