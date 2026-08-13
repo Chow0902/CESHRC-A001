@@ -12,8 +12,8 @@ export const profile: T = {
   role: "SC",
   location: "HongKong SAR, China",
   avatars: [
-    "https://youke.xn--y7xa690gmna.cn/s1/2026/02/16/69931993137a0.webp",
-    "https://youke.xn--y7xa690gmna.cn/s1/2026/02/16/69931993137a0.webp"
+    "https://ace.skychow.top/GoogleDrive%EF%BC%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%99%A8%EF%BC%89/Arisu.webp",
+    "https://ace.skychow.top/GoogleDrive%EF%BC%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%99%A8%EF%BC%89/Arisu.webp"
   ],
   slogan: [
     { text: "Exploring digital frontiers through " },
@@ -53,8 +53,8 @@ export const connectLinks: T[] = [
   },
   {
     platform: "Email",
-    username: "skychow1109@outlook.com",
-    url: "mailto:skychow1109@outlook.com",
+    username: "skychow.sora@gmail.com",
+    url: "mailto:skychow.sora@gmail.com",
     icon: "mail",
     color: "surface",
   },
@@ -65,12 +65,12 @@ export const personalLinks: T[] = [
   {
     platform: "Disk",
     description: "Personal file storage.",
-    url: "https://disk.skychow.top",
+    url: "https://ace.skychow.top",
     icon: "cloud",
   },
   {
     platform: "Spotify",
-    description: "ChongXi’s Live listening activity.",
+    description: "Chow’s Live listening activity.",
     url: "https://spot.chongxi.us",
     icon: "music_note",
     live: true, 
@@ -103,7 +103,7 @@ export const projects: T[] = [
 export const dashboard: T = {
   servers: [
     { name: "main", url: "https://skychow.top", connected: true },
-    { name: "NAS", url: "https://disk.skychow.top", connected: true },
+    { name: "NAS", url: "https://ace.skychow.top", connected: true },
   ],
   skills: [
     "JavaScript", "C#", "Go", "Rust", "HTML5", "Astro", "Node.js", 
