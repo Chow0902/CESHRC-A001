@@ -12,8 +12,8 @@ export const profile: T = {
   role: "SC",
   location: "HongKong SAR, China",
   avatars: [
-    "https://ace.skychow.top/GoogleDrive%EF%BC%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%99%A8%EF%BC%89/Arisu.webp",
-    "https://ace.skychow.top/GoogleDrive%EF%BC%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%99%A8%EF%BC%89/Arisu.webp"
+    "https://gd.skychow.top/GoogleDrive%EF%BC%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%99%A8%EF%BC%89/Arisu.webp?sign=bll8sNJpsM4tys9J5iDGKoJrzclfvXcAmkRmufDgcyQ=:0",
+    "https://gd.skychow.top/GoogleDrive%EF%BC%88%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8%E4%B8%8B%E8%BD%BD%E5%99%A8%EF%BC%89/Arisu.webp?sign=bll8sNJpsM4tys9J5iDGKoJrzclfvXcAmkRmufDgcyQ=:0"
   ],
   slogan: [
     { text: "Exploring digital frontiers through " },
